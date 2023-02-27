@@ -1,15 +1,15 @@
 const config = {
   gatsby: {
     pathPrefix: '/',
-    siteUrl: 'https://techgry.com',
-    gaTrackingId: 'UA-168648961-2',
+    siteUrl: 'https://ideazlife.com',
+    gaTrackingId: 'G-3PDJXFVFNH',
     trailingSlash: false,
   },
   header: {
     logo: '',
     logoLink: '',
     title:
-      'TECH <span class="text-primary">GRY</span>',
+      'IDEAZ <span class="text-primary">LIFE</span>',
     githubUrl: '',
     helpUrl: '',
     tweetText: '',
@@ -57,7 +57,7 @@ const config = {
       "<a href='/pages/about-me'>Me</a>",
   },
   siteMetadata: {
-    title: 'TechGry',
+    title: 'IdeazLife',
     description: 'Documentation built with mdx.  ',
     ogImage: null,
     docsLocation: '',
@@ -66,8 +66,8 @@ const config = {
   pwa: {
     enabled: true, // disabling this will also remove the existing service worker.
     manifest: {
-      name: 'TechGry',
-      short_name: 'TechGry',
+      name: 'IdeazLife',
+      short_name: 'IdeazLife',
       start_url: '/',
       background_color: '#6b37bf',
       theme_color: '#6b37bf',
