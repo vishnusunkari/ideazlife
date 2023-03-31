@@ -1,4 +1,4 @@
-# techgry
+# ideazlife
 
 Based on the template gatsby-techread-starter.
 
@@ -6,7 +6,7 @@ Based on the template gatsby-techread-starter.
 Sharing Knowledge
 
 ## 🔥 Features
-- Technology Knowledge Sharing
+- Knowledge Sharing
 - Will be evolving..stay tuned
 
 ## 🚀 Quickstart

@@ -1,19 +1,19 @@
 ---
 title: "Privacy Policy"
-metaTitle: "TechGry Privacy Policy"
-metaDescription: "TechGry Privacy Policy"
+metaTitle: "ideazlife Privacy Policy"
+metaDescription: "ideazlife Privacy Policy"
 ---
 
-### Privacy Policy for TechGry
+### Privacy Policy for ideazlife
 
-At TechGry, accessible from https://techgry.com, one of our main priorities is the privacy of our visitors. 
-This Privacy Policy document contains types of information that is collected and recorded by TechGry and how we use it.
+At ideazlife, accessible from https://ideazlife.com, one of our main priorities is the privacy of our visitors. 
+This Privacy Policy document contains types of information that is collected and recorded by ideazlife and how we use it.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
 ### Log Files
 
-TechGry follows a standard procedure of using log files. These files log visitors when they visit websites. 
+ideazlife follows a standard procedure of using log files. These files log visitors when they visit websites. 
 All hosting companies do this and a part of hosting services' analytics. The information collected by log files 
 include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, 
 referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. 
@@ -22,7 +22,7 @@ and gathering demographic information.
 
 ### Cookies and Web Beacons
 
-Like any other website, TechGry uses 'cookies'. These cookies are used to store information including visitors' preferences, 
+Like any other website, ideazlife uses 'cookies'. These cookies are used to store information including visitors' preferences, 
 and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by 
 customizing our web page content based on visitors' browser type and/or other information.
 
@@ -47,21 +47,21 @@ we hyperlinked to their Privacy Policies below.
   
 ### Privacy Policies
 
-You may consult this list to find the Privacy Policy for each of the advertising partners of TechGry. 
+You may consult this list to find the Privacy Policy for each of the advertising partners of ideazlife. 
 Our Privacy Policy was created with the help of the 
 <a href="https://www.privacypolicygenerator.org"> Free Privacy Policy Generator </a> 
 and the <a href="https://www.privacypolicyonline.com/privacy-policy-generator/"> Privacy Policy Generator Online </a>.  
 
 Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used 
-in their respective advertisements and links that appear on TechGry, which are sent directly to users' browser. 
+in their respective advertisements and links that appear on ideazlife, which are sent directly to users' browser. 
 They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness 
 of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
 
-Note that TechGry has no access to or control over these cookies that are used by third-party advertisers.
+Note that ideazlife has no access to or control over these cookies that are used by third-party advertisers.
 
 ### Third Party Privacy Policies
 
-TechGry's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the 
+ideazlife's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the 
 respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices 
 and instructions about how to opt-out of certain options. 
 
@@ -73,14 +73,14 @@ cookie management with specific web browsers, it can be found at the browsers' r
 Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians 
 to observe, participate in, and/or monitor and guide their online activity.
 
-TechGry does not knowingly collect any Personal Identifiable Information from children under the age of 13. 
+ideazlife does not knowingly collect any Personal Identifiable Information from children under the age of 13. 
 If you think that your child provided this kind of information on our website, we strongly encourage you to contact us 
 immediately and we will do our best efforts to promptly remove such information from our records.
 
 ### Online Privacy Policy Only
 
 This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the 
-information that they shared and/or collect in TechGry. This policy is not applicable to any information collected offline 
+information that they shared and/or collect in ideazlife. This policy is not applicable to any information collected offline 
 or via channels other than this website.
 
 ### Consent

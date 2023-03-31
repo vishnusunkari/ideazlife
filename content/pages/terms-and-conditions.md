@@ -1,17 +1,17 @@
 ---
 title: "Terms and Conditions"
-metaTitle: "TechGry Terms and Conditions"
-metaDescription: "TechGry Terms and Conditions"
+metaTitle: "ideazlife Terms and Conditions"
+metaDescription: "ideazlife Terms and Conditions"
 ---
 
 ### Terms and Conditions
 
-Welcome to TechGry!
+Welcome to IdeazLife!
 
-These terms and conditions outline the rules and regulations for the use of TechGry's Website, located at https://techgry.com.
+These terms and conditions outline the rules and regulations for the use of ideazlife's Website, located at https://ideazlife.com.
 
-By accessing this website we assume you accept these terms and conditions. Do not continue to use TechGry 
-if you do not agree to take all of the terms and conditions stated on this page. Our Terms and Conditions 
+By accessing this website we assume you accept these terms and conditions. Do not continue to use ideazlife 
+if you do not agree to take all the terms and conditions stated on this page. Our Terms and Conditions 
 were created with the help of the <a href="https://www.privacypolicyonline.com/terms-conditions-generator/">
 Terms & Conditions Generator Online</a> and the 
 <a href="https://www.termsconditionsgenerator.com">Free Terms & Conditions Generator</a>.
@@ -27,7 +27,7 @@ in the singular, plural, capitalization and/or he/she or they, are taken as inte
 
 ### Cookies
 
-We employ the use of cookies. By accessing TechGry, you agreed to use cookies in agreement with the TechGry's Privacy Policy.
+We employ the use of cookies. By accessing ideazlife, you agreed to use cookies in agreement with the ideazlife's Privacy Policy.
 
 Most interactive websites use cookies to let us retrieve the user’s details for each visit. Cookies are used by our 
 website to enable the functionality of certain areas to make it easier for people visiting our website. 
@@ -35,28 +35,28 @@ Some of our affiliate/advertising partners may also use cookies.
 
 ### License
 
-Unless otherwise stated, TechGry and/or its licensors own the intellectual property rights for all material on TechGry. 
-All intellectual property rights are reserved. You may access this from TechGry for your own personal use subjected to 
+Unless otherwise stated, ideazlife and/or its licensors own the intellectual property rights for all material on ideazlife. 
+All intellectual property rights are reserved. You may access this from ideazlife for your own personal use subjected to 
 restrictions set in these terms and conditions.
 
 You must not:
 
-- Republish material from TechGry
-- Sell, rent or sub-license material from TechGry
-- Reproduce, duplicate or copy material from TechGry
-- Redistribute content from TechGry
+- Republish material from ideazlife
+- Sell, rent or sub-license material from ideazlife
+- Reproduce, duplicate or copy material from ideazlife
+- Redistribute content from ideazlife
 
 
 This Agreement shall begin on the date hereof.
 
 Parts of this website offer an opportunity for users to post and exchange opinions and information in certain areas 
-of the website. TechGry does not filter, edit, publish or review Comments prior to their presence on the website. 
-Comments do not reflect the views and opinions of TechGry,its agents and/or affiliates. Comments reflect the views 
-and opinions of the person who post their views and opinions. To the extent permitted by applicable laws, TechGry shall 
+of the website. ideazlife does not filter, edit, publish or review Comments prior to their presence on the website. 
+Comments do not reflect the views and opinions of ideazlife,its agents and/or affiliates. Comments reflect the views 
+and opinions of the person who post their views and opinions. To the extent permitted by applicable laws, ideazlife shall 
 not be liable for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any use 
 of and/or posting of and/or appearance of the Comments on this website.
 
-TechGry reserves the right to monitor all Comments and to remove any Comments which can be considered 
+ideazlife reserves the right to monitor all Comments and to remove any Comments which can be considered 
 inappropriate, offensive or causes breach of these Terms and Conditions.
 
 You warrant and represent that:
@@ -70,7 +70,7 @@ You warrant and represent that:
     or unlawful activity.
 
 
-You hereby grant TechGry a non-exclusive license to use, reproduce, edit and authorize others to use, 
+You hereby grant ideazlife a non-exclusive license to use, reproduce, edit and authorize others to use, 
 reproduce and edit any of your Comments in any and all forms, formats or media.
 
 ### Hyperlinking to our Content 
@@ -105,7 +105,7 @@ We may consider and approve other link requests from the following types of orga
 We will approve link requests from these organizations if we decide that: 
 (a) the link would not make us look unfavorably to ourselves or to our accredited businesses; 
 (b) the organization does not have any negative records with us; 
-(c) the benefit to us from the visibility of the hyperlink compensates the absence of TechGry; and 
+(c) the benefit to us from the visibility of the hyperlink compensates the absence of ideazlife; and 
 (d) the link is in the context of general resource information.
 
 These organizations may link to our home page so long as the link: 
@@ -114,7 +114,7 @@ These organizations may link to our home page so long as the link:
 (c) fits within the context of the linking party’s site.
 
 If you are one of the organizations listed in paragraph 2 above and are interested in linking to our website, 
-you must inform us by sending an e-mail to TechGry. Please include your name, your organization name, 
+you must inform us by sending an e-mail to ideazlife. Please include your name, your organization name, 
 contact information as well as the URL of your site, a list of any URLs from which you intend to link to our Website, 
 and a list of the URLs on our site to which you would like to link. Wait 2-3 weeks for a response.
 
@@ -127,7 +127,7 @@ Approved organizations may hyperlink to our Website as follows:
 context and format of content on the linking party’s site.
 
 
-No use of TechGry's logo or other artwork will be allowed for linking absent a trademark license agreement.
+No use of ideazlife's logo or other artwork will be allowed for linking absent a trademark license agreement.
 
 ### iFrames
 

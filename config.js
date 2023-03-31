@@ -14,7 +14,7 @@ const config = {
     helpUrl: '',
     tweetText: '',
     social: `<li>
-		    <a href="https://twitter.com/techgry1" target="_blank" rel="noopener">
+		    <a href="https://twitter.com/ideazlife1" target="_blank" rel="noopener">
 		      <div class="twitterBtn">
 		        <img src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/twitter-brands-block.svg' alt={'Discord'}/>
 		      </div>
@@ -36,16 +36,12 @@ const config = {
       '/index',
       '/pages/about',// add trailing slash if enabled above
       '/aws',
-      '/java',
-      '/kafka',
-      '/concepts',
-      '/datastructures'
     ],
     collapsedNav: [
       '/aws',
     ],
     links: [
-              { text: 'Tweet Me', link: 'https://twitter.com/techgry1' }, 
+              { text: 'Tweet Me', link: 'https://twitter.com/ideazlife1' }, 
               { text: 'Privacy Policy', link: '/pages/privacypolicy' },
               { text: 'Terms and Conditions', link: '/pages/terms-and-conditions' },
               { text: 'Disclaimer', link: '/pages/disclaimer' },
